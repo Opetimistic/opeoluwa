@@ -1,2 +1,2 @@
 # opeoluwa
-Zuri task 56, uploading a Django project created in a virtual environment.
+A Rock Paper Scissors Game with two player(User and Computer)
